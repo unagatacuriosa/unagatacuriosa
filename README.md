@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software QA testing**
 
-- 📝 I regularly write articles on [https://gabi.certweb.infenlaces.com/](https://gabi.certweb.infenlaces.com/)
+- 📝 My proyects on [https://gabi.certweb.infenlaces.com/](https://gabi.certweb.infenlaces.com/)
 
 - 📄 Know about my experiences [in/gabriela-canales-rubio-347517159](in/gabriela-canales-rubio-347517159)
 
